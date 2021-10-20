@@ -6,7 +6,7 @@
 // License, v. 2.0. If a copy of the MPL was not distributed with this file,
 // You can obtain one at https://mozilla.org/MPL/2.0/.
 
-namespace Tests;
+namespace BrokeYourBike\HttpEnums\Tests;
 
 use PHPUnit\Framework\TestCase;
 use BrokeYourBike\HttpEnums\HttpMethodEnum;
