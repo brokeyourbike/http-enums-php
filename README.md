@@ -23,7 +23,9 @@ use BrokeYourBike\HttpEnums\HttpMethodEnum;
 
 function performRequest(HttpMethodEnum $method, string $url)
 {
-    //
+    if (HttpMethodEnum::GET()->equals($method)) {
+        //
+    }
 }
 ```
 
