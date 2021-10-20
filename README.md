@@ -8,7 +8,7 @@
 [![codecov](https://codecov.io/gh/brokeyourbike/http-enums-php/branch/main/graph/badge.svg?token=ImcgnxzGfc)](https://codecov.io/gh/brokeyourbike/http-enums-php)
 [![Type Coverage](https://shepherd.dev/github/brokeyourbike/http-enums-php/coverage.svg)](https://shepherd.dev/github/brokeyourbike/http-enums-php)
 
-HTTP methods enum for PHP
+HTTP related enums for PHP
 
 ## Installation
 
