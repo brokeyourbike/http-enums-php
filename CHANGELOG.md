@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/brokeyourbike/http-enums-php/compare/v1.0.0...v1.0.1) (2021-10-20)
+
+
+### Bug Fixes
+
+* pass correct type for static method ([06cd441](https://www.github.com/brokeyourbike/http-enums-php/commit/06cd441955988e1d5eca7624a68872f2912af889))
+
 ## 1.0.0 (2021-10-20)
 
 
