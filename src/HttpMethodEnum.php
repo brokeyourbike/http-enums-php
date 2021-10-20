@@ -21,7 +21,6 @@ use Symfony\Component\HttpFoundation\Request;
  * @method static HttpMethod OPTIONS()
  * @method static HttpMethod TRACE()
  * @method static HttpMethod CONNECT()
- * @psalm-immutable
  */
 final class HttpMethodEnum extends \MyCLabs\Enum\Enum
 {
