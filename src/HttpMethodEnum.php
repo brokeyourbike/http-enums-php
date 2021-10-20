@@ -13,14 +13,14 @@ use Symfony\Component\HttpFoundation\Request;
 /**
  * @author Ivan Stasiuk <brokeyourbike@gmail.com>
  *
- * @method static HttpMethod HEAD()
- * @method static HttpMethod GET()
- * @method static HttpMethod POST()
- * @method static HttpMethod PUT()
- * @method static HttpMethod DELETE()
- * @method static HttpMethod OPTIONS()
- * @method static HttpMethod TRACE()
- * @method static HttpMethod CONNECT()
+ * @method static HttpMethodEnum HEAD()
+ * @method static HttpMethodEnum GET()
+ * @method static HttpMethodEnum POST()
+ * @method static HttpMethodEnum PUT()
+ * @method static HttpMethodEnum DELETE()
+ * @method static HttpMethodEnum OPTIONS()
+ * @method static HttpMethodEnum TRACE()
+ * @method static HttpMethodEnum CONNECT()
  */
 final class HttpMethodEnum extends \MyCLabs\Enum\Enum
 {
