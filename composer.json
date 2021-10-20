@@ -1,6 +1,6 @@
 {
-    "name": "brokeyourbike/http-methods-enum",
-    "description": "Paystack API Client for PHP",
+    "name": "brokeyourbike/http-enums",
+    "description": "HTTP related enums for PHP",
     "type": "library",
     "license": "MPL-2.0",
     "autoload": {
