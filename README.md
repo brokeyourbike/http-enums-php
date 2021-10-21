@@ -5,8 +5,8 @@
 [![License: MPL-2.0](https://img.shields.io/badge/license-MPL--2.0-purple.svg)](https://github.com/brokeyourbike/http-enums-php/blob/main/LICENSE)
 
 [![ci](https://github.com/brokeyourbike/http-enums-php/actions/workflows/ci.yml/badge.svg)](https://github.com/brokeyourbike/http-enums-php/actions/workflows/ci.yml)
+[![Maintainability](https://api.codeclimate.com/v1/badges/cb91278476b2c640e016/maintainability)](https://codeclimate.com/github/brokeyourbike/http-enums-php/maintainability)
 [![codecov](https://codecov.io/gh/brokeyourbike/http-enums-php/branch/main/graph/badge.svg?token=ImcgnxzGfc)](https://codecov.io/gh/brokeyourbike/http-enums-php)
-[![Type Coverage](https://shepherd.dev/github/brokeyourbike/http-enums-php/coverage.svg)](https://shepherd.dev/github/brokeyourbike/http-enums-php)
 
 HTTP related enums for PHP
 
