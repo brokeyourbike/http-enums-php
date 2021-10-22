@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.2](https://www.github.com/brokeyourbike/http-enums-php/compare/v1.0.1...v1.0.2) (2021-10-22)
+
+
+### Miscellaneous Chores
+
+* update badges ([c4a5cb4](https://www.github.com/brokeyourbike/http-enums-php/commit/c4a5cb47ce3dffcbd8d9d6ba1329c5f384111a90))
+* update badges ([38b79e7](https://www.github.com/brokeyourbike/http-enums-php/commit/38b79e7da2f20c77bc3735b1b916955988941770))
+
 ### [1.0.1](https://www.github.com/brokeyourbike/http-enums-php/compare/v1.0.0...v1.0.1) (2021-10-20)
 
 
