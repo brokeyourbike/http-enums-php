@@ -8,29 +8,18 @@
 
 namespace BrokeYourBike\HttpEnums;
 
-use Symfony\Component\HttpFoundation\Request;
-
 /**
  * @author Ivan Stasiuk <brokeyourbike@gmail.com>
- *
- * @method static HttpMethodEnum HEAD()
- * @method static HttpMethodEnum GET()
- * @method static HttpMethodEnum POST()
- * @method static HttpMethodEnum PUT()
- * @method static HttpMethodEnum DELETE()
- * @method static HttpMethodEnum OPTIONS()
- * @method static HttpMethodEnum TRACE()
- * @method static HttpMethodEnum CONNECT()
  */
-final class HttpMethodEnum extends \MyCLabs\Enum\Enum
+enum HttpMethodEnum: string
 {
-    private const HEAD = Request::METHOD_HEAD;
-    private const GET = Request::METHOD_GET;
-    private const POST = Request::METHOD_POST;
-    private const PUT = Request::METHOD_PUT;
-    private const PATCH = Request::METHOD_PATCH;
-    private const DELETE = Request::METHOD_DELETE;
-    private const OPTIONS = Request::METHOD_OPTIONS;
-    private const TRACE = Request::METHOD_TRACE;
-    private const CONNECT = Request::METHOD_CONNECT;
+    case HEAD = 'HEAD';
+    case GET = 'GET';
+    case POST = 'POST';
+    case PUT = 'PUT';
+    case PATCH = 'PATCH';
+    case DELETE = 'DELETE';
+    case OPTIONS = 'OPTIONS';
+    case TRACE = 'TRACE';
+    case CONNECT = 'CONNECT';
 }

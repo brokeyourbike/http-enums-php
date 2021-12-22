@@ -16,20 +16,17 @@
     "authors": [
         {
             "name": "Ivan Stasiuk",
-            "email": "brokeyourbike@gmail.com",
-            "homepage": "https://github.com/brokeyourbike"
+            "email": "ivan@stasi.uk",
+            "homepage": "https://stasi.uk"
         }
     ],
     "minimum-stability": "stable",
     "require": {
-        "php": "^7.4|^8.0",
-        "symfony/http-foundation": "^4|^5",
-        "myclabs/php-enum": "^1.8"
+        "php": "^8.1"
     },
     "require-dev": {
         "bamarni/composer-bin-plugin": "^1.4",
-        "phpunit/phpunit": "^9.5",
-        "mockery/mockery": "^1.4"
+        "phpunit/phpunit": "^9.5"
     },
     "version": "1.0.1"
 }
