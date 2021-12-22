@@ -1,5 +1,23 @@
 # Changelog
 
+## [2.0.0](https://www.github.com/brokeyourbike/http-enums-php/compare/v1.0.1...v2.0.0) (2021-12-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* use native enums
+
+### Features
+
+* use native enums ([19c975b](https://www.github.com/brokeyourbike/http-enums-php/commit/19c975bbc12119e49cd6681ae5ca2635df94c7ee))
+
+
+### Miscellaneous Chores
+
+* update badges ([c4a5cb4](https://www.github.com/brokeyourbike/http-enums-php/commit/c4a5cb47ce3dffcbd8d9d6ba1329c5f384111a90))
+* update badges ([38b79e7](https://www.github.com/brokeyourbike/http-enums-php/commit/38b79e7da2f20c77bc3735b1b916955988941770))
+* update example ([529cfeb](https://www.github.com/brokeyourbike/http-enums-php/commit/529cfeba843ea1a1e466f1c744550a2ef8e976da))
+
 ### [1.0.1](https://www.github.com/brokeyourbike/http-enums-php/compare/v1.0.0...v1.0.1) (2021-10-20)
 
 
