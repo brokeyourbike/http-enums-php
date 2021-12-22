@@ -1,4 +1,4 @@
-# http-enums-php
+# http-enums
 
 [![Latest Stable Version](https://img.shields.io/github/v/release/brokeyourbike/http-enums-php)](https://github.com/brokeyourbike/http-enums-php/releases)
 [![Total Downloads](https://poser.pugx.org/brokeyourbike/http-enums/downloads)](https://packagist.org/packages/brokeyourbike/http-enums)
@@ -23,7 +23,7 @@ use BrokeYourBike\HttpEnums\HttpMethodEnum;
 
 function performRequest(HttpMethodEnum $method, string $url)
 {
-    if (HttpMethodEnum::GET()->equals($method)) {
+    if ($method === HttpMethodEnum::GET) {
         //
     }
 }
