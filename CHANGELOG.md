@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.1](https://www.github.com/brokeyourbike/http-enums-php/compare/v2.0.0...v2.0.1) (2022-01-02)
+
+
+### Miscellaneous Chores
+
+* update author email ([5316317](https://www.github.com/brokeyourbike/http-enums-php/commit/5316317d51ed38a12ef5f99d8b1478fba34e5654))
+
 ## [2.0.0](https://www.github.com/brokeyourbike/http-enums-php/compare/v1.0.1...v2.0.0) (2021-12-22)
 
 
