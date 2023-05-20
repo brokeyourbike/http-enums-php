@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.2](https://www.github.com/brokeyourbike/http-enums-php/compare/v2.0.1...v2.0.2) (2023-05-20)
+
+
+### Miscellaneous Chores
+
+* button ([4617ac2](https://www.github.com/brokeyourbike/http-enums-php/commit/4617ac27d9a885c7cfce6a78b77ae1073f8e5ddc))
+
 ### [2.0.1](https://www.github.com/brokeyourbike/http-enums-php/compare/v2.0.0...v2.0.1) (2023-05-14)
 
 
